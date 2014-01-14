@@ -1,0 +1,42 @@
+{
+	"name": "node-jpegicc",
+	"description": "Node.js wrapper for Little CMS JpegICC",
+	"version": "1.0.0",
+	"author": {
+		"name": "Jeremy Condon",
+		"email": "jeremycondon@gmail.com"
+	},
+	"keywords": [
+		"nodejs",
+		"JpegICC",
+		"ICC",
+		"EXIF",
+		"RGB",
+		"sRGB",
+		"CMYK",
+		"colorspace",
+		"image",
+		"graphicsmagick",
+		"imagemagick"
+	],
+	"engines": {
+		"node": ">= 0.4.2"
+	},
+	"bugs": {
+		"url": "http://github.com/jeremycondon/node-jpegicc/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/mit-license.php"
+		}
+	],
+	"main": "./command",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jeremycondon/node-jpegicc.git"
+	},
+	"readmeFilename": "README.md",
+	"_id": "node-jpegicc@1.0.0",
+	"_from": "node-jpegicc@1.0.0"
+}
