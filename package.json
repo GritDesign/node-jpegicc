@@ -1,5 +1,5 @@
 {
-	"name": "node-jpegicc",
+	"name": "jpegicc",
 	"description": "Node.js wrapper for Little CMS JpegICC",
 	"version": "1.0.0",
 	"author": {
@@ -37,6 +37,6 @@
 		"url": "https://github.com/jeremycondon/node-jpegicc.git"
 	},
 	"readmeFilename": "README.md",
-	"_id": "node-jpegicc@1.0.0",
-	"_from": "node-jpegicc@1.0.0"
+	"_id": "jpegicc@1.0.0",
+	"_from": "jpegicc@1.0.0"
 }
