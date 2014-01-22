@@ -23,7 +23,7 @@
 		"node": ">= 0.4.2"
 	},
 	"bugs": {
-		"url": "http://github.com/jeremycondon/node-jpegicc/issues"
+		"url": "http://github.com/GritDesign/node-jpegicc/issues"
 	},
 	"licenses": [
 		{
@@ -34,7 +34,7 @@
 	"main": "./command",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jeremycondon/node-jpegicc.git"
+		"url": "https://github.com/GritDesign/node-jpegicc.git"
 	},
 	"readmeFilename": "README.md",
 	"_id": "jpegicc@1.0.0",
