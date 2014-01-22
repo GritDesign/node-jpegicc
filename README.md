@@ -37,6 +37,15 @@ Or on a MAC with Homebrew
 
     brew install littlecms
 
+SmartOS
+
+    pkgin in lcms
+
+Ubuntu
+
+    sudo apt-get install liblcms-utils
+
+
 ## API Overview
 
 Create a new ICC object
