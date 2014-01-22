@@ -23,7 +23,7 @@ icc.process("test.jpg", "testout.jpg", function(err) {
 
 ## Installation
 
-    npm install node-jpegicc
+    npm install jpegicc
 
 Also make sure jpegicc is installed.  See [Little CMS](http://www.littlecms.com/download.html) for binaries and a link to SourceForge, or download directly from [SourceForge](http://sourceforge.net/projects/lcms/files/lcms/2.5/lcms2-2.5.tar.gz/download)
 
